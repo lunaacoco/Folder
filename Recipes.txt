@@ -1,10 +1,5 @@
-﻿<<<<<<< HEAD
 ﻿Hallo Ich bin ein Rührei.
-
-Hi ich bin ein Einhorn.
-=======
-Hallo Ich bin ein Rührei.
 Und liebe Oktopus mit Oliven. Nomnom
 
 Hi ich bin ein Einhorn und ich mag weder Oktopus noch Oliven. Ich mag Pizza. Ohne Oliven.
->>>>>>> bf9963583fa00190b4aa490d0496fc261a6d709c
+
